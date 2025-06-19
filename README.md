@@ -13,10 +13,6 @@ Problems are organized by topic and follow structured practice based on real int
 - 🔗 [HackerRank](https://www.hackerrank.com/profile/harshabodani461)
 - 🔗 [GeeksforGeeks – 160 Days Challenge](https://www.geeksforgeeks.org/user/harshaboq8ls/)
 
-> 🔒 *Make sure all profiles are set to public before sharing.*
-
----
-
 ## 📚 Topics Covered
 
 - ✅ Arrays & Strings
@@ -33,3 +29,17 @@ Problems are organized by topic and follow structured practice based on real int
 ---
 
 ## 📁 Folder Structure
+📁 Folder Structure
+bash
+Copy
+Edit
+/Arrays
+/Strings
+/LinkedLists
+/Trees
+/Graphs
+/StacksAndQueues
+/DynamicProgramming
+/SearchingAndSorting
+/Greedy
+/TriesAndHashing
